@@ -1,11 +1,12 @@
 {
- "name": "ANTI PYRAMID",
- "website": "https://antidao.org/",
- "description": "https://antidao.org/",
- "explorer": "https://bscscan.com/token/0x09989B01682e57E3F7d8433B5cC1399cc30512FB",
+ "name": "BICSWAP Token",
+ "website": "https://bicc.link/",
+ "description": "BICSWAP is an open, distributed, decentralized fusion DeFi + NFT + DA0 ecological system. Has the diversity of the financial scene, through collaborative BICSWAP ecological system, building public chain, distributed financial infrastructure, financial services agreement is an integrated service platform.
+.",
+ "explorer": "https://bscscan.com/token/0x9d16e6491633efbf218e4fc2ee3333e5b35a1d80",
  "type": "BEP20",
- "symbol": "ANTI",
+ "symbol": "BICC",
  "decimals": 18,
  "status": "active",
- "id": "0x09989B01682e57E3F7d8433B5cC1399cc30512FB"
+ "id": "0x9d16e6491633efbf218e4fc2ee3333e5b35a1d80"
 }
